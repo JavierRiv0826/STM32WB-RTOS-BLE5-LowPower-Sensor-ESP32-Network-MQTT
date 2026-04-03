@@ -30,7 +30,6 @@ This layered architecture separates:
 
 # 🧩 Repository Structure
 
---- Put a bash here ---
 ```bash
 STM32WB-RTOS-BLE5-LowPower-Sensor-ESP32-Network-MQTT/
 │
