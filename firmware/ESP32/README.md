@@ -252,7 +252,7 @@ I2C communication handled via dedicated `i2c_bus` component.
 I2C Address: 0x3C
 
 <p align="center">
-  <img src="../docs/images/esp32/oled_display.jpeg" width="200"/>
+  <img src="/docs/images/esp32/oled_display.jpeg" width="200"/>
   <br>
   <em>OLED Display (SH1106)</em>
 </p>
