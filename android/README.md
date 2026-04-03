@@ -36,7 +36,7 @@ The app acts as a mobile monitoring interface for the STM32WB distributed sensor
 # 🏗️ Architecture Overview
 
 <p align="center">
-  <img src="../docs/images/android/architecture.png" width="1000"/>
+  <img src="../docs/images/android/architecture.png" width="750"/>
   <br>
   <em>App Architecture</em>
 </p>
