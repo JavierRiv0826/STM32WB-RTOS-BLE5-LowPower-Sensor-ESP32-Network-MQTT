@@ -1,0 +1,10 @@
+# ESP-IDF
+build/
+sdkconfig
+sdkconfig.old
+
+# IDE
+.vscode/
+
+# Logs
+*.log
