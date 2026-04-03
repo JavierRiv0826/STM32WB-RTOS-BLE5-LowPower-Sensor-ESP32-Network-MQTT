@@ -24,7 +24,7 @@ The firmware follows a modular RTOS-based layered architecture:
 This project demonstrates ultra-low-power embedded design, BLE stack integration on STM32WB, and event-driven IoT node architecture.
 
 <p align="center">
-  <img src="../docs/images/stm32wb/sensor_node.png" width="500"/>
+  <img src="/docs/images/stm32wb/sensor_node.png" width="500"/>
   <br>
   <em>Low-Power BLE Sensor Node  </em>
 </p>
@@ -327,7 +327,7 @@ Both sensors share the same I2C bus.
 
 # 🧩 Firmware Architecture
 <p align="center">
-  <img src="../docs/images/stm32wb/sensor_node_architecture.png" width="200"/>
+  <img src="/docs/images/stm32wb/sensor_node_architecture.png" width="500"/>
   <br>
   <em>Firmware Architecture</em>
 </p>
