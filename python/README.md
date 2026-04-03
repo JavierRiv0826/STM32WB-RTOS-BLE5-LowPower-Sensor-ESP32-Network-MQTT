@@ -260,7 +260,7 @@ pip install bleak paho-mqtt
 ### 🔍 ble_monitor.py
 
 <p align="center">
-  <img src="../docs/images/python/ble_monitor.png" width="200"/>
+  <img src="../docs/images/python/ble_monitor.png" width="500"/>
   <br>
   <em>ble_monitor</em>
 </p>
@@ -268,7 +268,7 @@ pip install bleak paho-mqtt
 ### 🔍 mqtt_monitor.py
 
 <p align="center">
-  <img src="../docs/images/python/mqtt_monitor.png" width="200"/>
+  <img src="../docs/images/python/mqtt_monitor.png" width="500"/>
   <br>
   <em>mqtt_monitor</em>
 </p>
